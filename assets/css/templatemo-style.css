@@ -526,6 +526,22 @@ button:hover {
     background-image: url(../images/icon/public-speaking_blue.png);
 }
 
+.service-item .tenth-service-icon {
+    background-image: url(../images/icon/rest-api_white.png);
+}
+
+.service-item:hover .tenth-service-icon {
+    background-image: url(../images/icon/rest-api_blue.png);
+}
+
+.service-item .eleventh-service-icon {
+    background-image: url(../images/icon/socket_white.png);
+}
+
+.service-item:hover .eleventh-service-icon {
+    background-image: url(../images/icon/socket_blue.png);
+}
+
 
 /* My Work */
 
